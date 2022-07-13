@@ -1,4 +1,41 @@
-# Getting Started with Create React App
+
+## WeatherBubble
+
+WeatherBubble is an application programming interface that
+provides access to current and historical weather data at a global scale.
+WeatherBubble is the process of generating weather forecasts or weather conditions
+of any place on the Earth by just typing the name of the location
+
+
+## Features
+
+- Type name of the loaction
+- User Friendly
+- Fullscreen mode
+- Responsive
+- loading Bar 
+
+
+## Tech Stack
+
+**Client:** HTML, CSS , JavaScript ,ReactJS
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/RiteshJha2000/WeatherBubble/blob/main/ss/Screenshot%202022-07-13%20131913.png?raw=true)
+
+![App Screenshot](https://github.com/RiteshJha2000/WeatherBubble/blob/main/ss/Screenshot%202022-07-13%20131939.png?raw=true)
+
+![App Screenshot](https://github.com/RiteshJha2000/WeatherBubble/blob/main/ss/Screenshot%202022-07-13%20132021.png?raw=true)
+
+![App Screenshot](https://github.com/RiteshJha2000/WeatherBubble/blob/main/ss/Screenshot%202022-07-13%20132104.png?raw=true)
+
+
+## Logo
+![Logo](https://github.com/RiteshJha2000/WeatherBubble/blob/main/public/android-chrome-192x192.png?raw=true)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
